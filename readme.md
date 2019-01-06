@@ -75,6 +75,28 @@ For example, to complete the Google Search example, we will add two more input f
 > What do you think the **value** attribute does in the submit input fields?
 Is it the same as in the text input field we saw earlier?
 
+For the rest of the lesson, we will learn about many other form controls and how to use them with hands-on exercises:
+
+> [Exercise 1](exercises/1-input-fields/readme.md): Practice `<input>` fields.
+
+> [Exercise 2](exercises/2-labels/readme.md): Add a `<label>`.
+
+> [Exercise 3](exercises/3-textarea/readme.md): `<textarea>` for big blocks of text.
+
+> [Exercise 4](exercises/4-select/readme.md): Dropdown boxes.
+
+> [Exercise 5](exercises/5-checkboxes/readme.md): Multiple choice.
+
+> [Exercise 6](exercises/6-fieldset/readme.md): Grouping.
+
+> [Exercise 7](exercises/7-extras/readme.md): Useful extras: required, read-only, disabled and placeholder.
+
+> [Exercise 8](exercises/8-accessibility/readme.md): Accessibility.
+
+> [Exercise 9](exercises/9-validation/readme.md): Validating form input from the frontend.
+
+> [Exercise 10](exercises/10-interactivity/readme.md): Make it interactive.
+
 ## Resources
 
  * [The HTML `<form>` element - MDN](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/form)
@@ -84,7 +106,7 @@ Is it the same as in the text input field we saw earlier?
 
 ## Go deeper
 
-> As well as **radio buttons**, other very common form fields are **checkboxes**. We haven't told you how to build them but you can do so with the fields we have covered in this lesson.
+> As well as **check boxes**, other very common form fields are **radio buttons**. We haven't told you how to build them but you can do so with the fields we have covered in this lesson.
 Do some research of your own and build an example!
 
 > We can do the same as `<input type="submit">` and `<input type="reset">` by using `<button type="submit"></button>` and `<button type="reset"></button>`.
