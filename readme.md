@@ -83,9 +83,9 @@ For the rest of the lesson, we will learn about many other form controls and how
 
 > [Exercise 3](exercises/3-textarea/readme.md): `<textarea>` for big blocks of text.
 
-> [Exercise 4](exercises/4-select/readme.md): Dropdown boxes.
+> [Exercise 4](exercises/4-checkboxes/readme.md): Multiple choice.
 
-> [Exercise 5](exercises/5-checkboxes/readme.md): Multiple choice.
+> [Exercise 5](exercises/5-select/readme.md): Dropdown boxes.
 
 > [Exercise 6](exercises/6-fieldset/readme.md): Grouping.
 
