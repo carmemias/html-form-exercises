@@ -1,0 +1,23 @@
+{
+  "name": "html-form-exercises",
+  "version": "1.0.0",
+  "description": "HTML5 Form exercises for CodeYourFuture",
+  "author": "CodeYourFuture",
+  "license": "ISC",
+  "scripts": {
+    "1": "live-server --open=exercises/1-input-fields",
+    "2": "live-server --open=exercises/2-labels",
+    "3": "live-server --open=exercises/3-textarea",
+    "4": "live-server --open=exercises/4-checkboxes",
+    "5": "live-server --open=exercises/5-select",
+    "6": "live-server --open=exercises/6-fieldset",
+    "7": "live-server --open=exercises/7-extras",
+    "8": "live-server --open=exercises/8-accessibility",
+    "9": "live-server --open=exercises/9-validation",
+    "10": "live-server --open=exercises/10-interactivity",
+    "serve": "live-server"
+  },
+  "devDependencies": {
+    "live-server": "^1.2.1"
+  }
+}

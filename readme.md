@@ -75,27 +75,76 @@ For example, to complete the Google Search example, we will add two more input f
 > What do you think the **value** attribute does in the submit input fields?
 Is it the same as in the text input field we saw earlier?
 
-For the rest of the lesson, we will learn about many other form controls and how to use them with hands-on exercises:
+For the rest of the lesson, we will learn about many other form controls and how to use them with hands-on exercises.
 
-> [Exercise 1](exercises/1-input-fields/readme.md): Practice `<input>` fields.
+## HTML5 Form exercises - Getting started
 
-> [Exercise 2](exercises/2-labels/readme.md): Add a `<label>`.
+We will use the exercises to start building a checkout page for the Code Your Future merchandise shop.
 
-> [Exercise 3](exercises/3-textarea/readme.md): `<textarea>` for big blocks of text.
+Ready? Let's get started!
 
-> [Exercise 4](exercises/4-checkboxes/readme.md): Multiple choice.
+### Fork and clone this repository
 
-> [Exercise 5](exercises/5-select/readme.md): Dropdown boxes.
+First, you need to create your own copy of these exercises. We call this a "fork". Follow these steps to create your fork.
 
-> [Exercise 6](exercises/6-fieldset/readme.md): Grouping.
+...screenshot(s)...
 
-> [Exercise 7](exercises/7-extras/readme.md): Useful extras: required, read-only, disabled and placeholder.
+Next, you need to download your fork so that you have the files on your computer. Follow these steps to clone your fork.
 
-> [Exercise 8](exercises/8-accessibility/readme.md): Accessibility.
+...screenshot(s)...
 
-> [Exercise 9](exercises/9-validation/readme.md): Validating form input from the frontend.
+Open the Terminal on your computer, browse to your projects directory, and run the following command to create a copy of your fork:
 
-> [Exercise 10](exercises/10-interactivity/readme.md): Make it interactive.
+```
+cd <your-project-directory>
+git clone <your-fork-url>
+cd html-form-exercises
+code .
+```
+
+When you're done, you should see your code editor with the files open on the left, like the following screenshot.
+
+...screenshot...
+
+### Set up the project
+
+Before you can start the exercises, we must set up the project. To do this, we will install all of the code necessary to run the exercises. In your editor, open the Terminal and run the following commands:
+
+```
+npm install
+```
+
+Carefully read the messages that appear. Are there any errors? If so, please ask a mentor for help.
+
+### Begin working on the exercises
+
+To begin working on the first exercise, run the following command in the Terminal in your code editor:
+
+```
+npm run 1
+```
+
+This will lauch the sample website for the first exercise in your browser.
+
+Now go back to your code editor. Open the first exercise in the `week-1` directory and find the [readme.md](week-1/1-getting-started/readme.md) file.
+
+...screenshot...
+
+Read the instructions in this file and follow the steps to complete the exercise.
+
+### Completing more exercises
+
+When you have finished the first exercise, move to the next one. First, go to the Terminal in your code editor, and type `CTRL`+`C` (`CMD`+`C` on a Mac) to stop running the first exercise.
+
+To run another exercise, run the following code with the correct number of that exercise:
+
+```
+npm run 2
+```
+
+### When you have completed all exercises
+
+When you reach the final exercise, you'll be asked to submit a pull request. When you've finished that task, post in your Slack channel to let the mentors know that you have finished.
 
 ## Resources
 
@@ -107,7 +156,7 @@ For the rest of the lesson, we will learn about many other form controls and how
 ## Go deeper
 
 > As well as **check boxes**, other very common form fields are **radio buttons**. We haven't told you how to build them but you can do so with the fields we have covered in this lesson.
-Do some research of your own and build an example!
+Do some research of your own and add a new section to the final form from the exercises. This new section is for the customer to let us know whether the t-shirt needs to be delivered to their home or somewhere else.
 
 > We can do the same as `<input type="submit">` and `<input type="reset">` by using `<button type="submit"></button>` and `<button type="reset"></button>`.
 Do some research to find out the advantages and disadvantages of both.
