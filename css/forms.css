@@ -1,0 +1,18 @@
+#shopping-basket table {
+	width: 90%;
+	margin: 10px auto;
+}
+
+#shopping-basket table td {
+	padding: 10px;
+	vertical-align: top;
+}
+
+#shopping-basket table td:first-child {
+	width: 50%;
+}
+
+#shopping-basket img {
+	max-height: 150px;
+	width: auto;
+}

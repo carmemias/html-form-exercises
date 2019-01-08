@@ -1,2 +1,4 @@
 img/*.psd
 img/Screenshot*.*
+node_modules/**
+package-lock.json
