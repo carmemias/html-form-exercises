@@ -79,7 +79,7 @@ For the rest of the lesson, we will learn about many other form controls and how
 
 ## HTML5 Form exercises - Getting started
 
-We will use the exercises to start building a checkout page for the Code Your Future merchandise shop.
+We will use the exercises to start building a checkout page for the CodeYourFuture merchandise shop.
 
 Ready? Let's get started!
 

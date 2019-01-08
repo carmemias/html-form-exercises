@@ -1,6 +1,6 @@
 # Exercise 1: Input Fields
 
-We have seen how to create an `<input type="text">` field. Use what you have learned to start creating the **Check Out** for the Code Your Future shop.
+We have seen how to create an `<input type="text">` field. Use what you have learned to start creating the **Check Out** for the CodeYourFuture shop.
 
 Please notice that, because the data entered on this form is going to be used and stored by the server, we will need to use set the `method="POST"` instead of `GET`.
 
